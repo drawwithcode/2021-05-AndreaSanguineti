@@ -1,0 +1,8 @@
+{
+  "include": [
+    "*.js",
+    "public/libraries/*.js",
+    "/Users/andreasanguineti/.vscode/extensions/samplavigne.p5-vscode-1.2.8/p5types/global.d.ts",
+    "public/sketch.js"
+  ]
+}
